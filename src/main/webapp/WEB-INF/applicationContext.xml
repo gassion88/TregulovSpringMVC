@@ -11,7 +11,7 @@
     	http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
-    <context:component-scan base-package="TregulovSpringMVC" />
+    <context:component-scan base-package="org.gassion.TregulovSpringMVC" />
 
     <mvc:annotation-driven/>
 
